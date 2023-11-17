@@ -1,5 +1,5 @@
 # Topic
-Students’ mental health and the factors that affect it.
+Student Mental Health Factors.
 
 # Context
 Mental health becomes increasingly important with more and more people suffering from depression. So far, approximately 280 million people in the world have depression, according to the World Health Organization. Students are at high risk of mental disorders due to many reasons, such as biological factors, personality and psychological state, school experience, and lifestyle (Liu et al., 2022). These categories consist of more specified factors that do harm to mental health, such as insufficient social support, unsatisfactory academic performance, Low family socioeconomic status, poor sleep quality, and so on. Figuring out what has a great impact on depression is conducive to the prevention of mental illness for young people. 
